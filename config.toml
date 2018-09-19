@@ -225,10 +225,10 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
 
-   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-   link = "//twitter.com/GeorgeCushen"
+  # [[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fab"
+  # link = "//twitter.com/GeorgeCushen"
    
 
   # Link to a PDF of your resume/CV from the About widget.
